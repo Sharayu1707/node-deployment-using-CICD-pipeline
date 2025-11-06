@@ -1,4 +1,4 @@
-# node-js-app-CICD
+# node-deployment-using-CICD-pipeline
 
 ## Project Overview
 
